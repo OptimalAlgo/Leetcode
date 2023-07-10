@@ -1,5 +1,8 @@
 '''
 https://leetcode.com/problems/two-sum/
+
+Topics: Array, Hash Table
+
 Time: O(n)
 Space: O(n)
 '''
